@@ -58,9 +58,6 @@ print("Hello World")
 </script>
 ```
 
-# Numpy
-
-
 <https://www.google.com/>
 
 [구글](https://www.google.com/)
