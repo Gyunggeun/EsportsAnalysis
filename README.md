@@ -60,6 +60,6 @@ print("Hello World")
 
 <https://www.google.com/>
 
-[구글]{https://www.google.com/}
+[구글](https://www.google.com/)
 
-[구글]{https://www.google.com/, "클릭하면 구글로 이동합니다"}
+[구글](https://www.google.com/, "클릭하면 구글로 이동합니다")
